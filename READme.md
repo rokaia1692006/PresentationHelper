@@ -11,9 +11,9 @@ To Train on new data use the jupyternotebook
 
 
 Dependencies:
-1. mediapipe
-2. opencv-python
-3. torch
-4.  numpy
-5.  pyautogui
-6.  ffplay (via ffmpeg)
+ 1. mediapipe
+ 2. opencv-python
+ 3. torch
+ 4.  numpy
+ 5.  pyautogui
+ 6.  ffplay (via ffmpeg)
